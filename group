@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>kevin debryne</title>
+</head>
+<body bgcolor="aqua">
+<center>
+<table>
+<tr>
+<label>Name</label>
+<input type="Text"><br><br>
+<label>Birthdate</label>
+<input type="Date"><br><br>
+<label>Password</label>
+<input type="Password"><br><br>
+<label>Appload file</label>
+<input type="file"><br></br>
+<label>Gender</label>
+<input type="Radio"name="gender value="male>male
+<input type="Radio"name="gender value="female>female<br>
+<select><br><br>
+<option>Gasabo</option>
+<option>Gatsabo</option>
+<option>Isangano</option>
+<option>Kigali</option>
+<button onclick>SUBMIT</button>
+</tr>
+</table>
+<a href="SUBMIT.html">SUBMIT</a>
+<check box>banana</check box>
+</center>
+</body>
+</html>
